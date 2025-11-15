@@ -33,23 +33,6 @@
       "badge": "PHỔ BIẾN",
       "rating": 4,
       "tags": ["troll", "vui nhộn", "giải trí"]
-    },
-    {
-      "id": 3,
-      "name": "Nam File Manager",
-      "developer": "Phạm Hoàng Nam® | Store Apps Publisher",
-      "description": "Quản lý file chuyên nghiệp với giao diện hiện đại và tính năng mạnh mẽ",
-      "version": "v2.1",
-      "size": "15.2 MB",
-      "icon": "https://raw.githubusercontent.com/Japokies/Japokies.github.io/main/assets/file-manager-icon.png",
-      "file": "NamFileManager-v2.1.zip",
-      "url": "https://github.com/Japokies/file-manager/releases/download/v2.1/NamFileManager-v2.1.zip",
-      "releaseUrl": "https://github.com/Japokies/file-manager/releases/tag/v2.1",
-      "featured": true,
-      "verified": true,
-      "badge": "ỔN ĐỊNH",
-      "rating": 4,
-      "tags": ["quản lý file", "tiện ích", "hệ thống"]
     }
   ]
 }
